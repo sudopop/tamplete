@@ -1,5 +1,5 @@
 # https://tutorials.pytorch.kr/beginner/blitz/cifar10_tutorial.html
-#
+##https://github.com/kboseong/RotNet
 
 import torch
 import torchvision
